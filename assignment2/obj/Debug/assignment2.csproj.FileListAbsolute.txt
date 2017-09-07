@@ -1,0 +1,6 @@
+C:\Users\flacont\Desktop\Fall 2017\Advanced Programming\Assignments\assignment2\assignment2\bin\Debug\assignment2.exe.config
+C:\Users\flacont\Desktop\Fall 2017\Advanced Programming\Assignments\assignment2\assignment2\bin\Debug\assignment2.exe
+C:\Users\flacont\Desktop\Fall 2017\Advanced Programming\Assignments\assignment2\assignment2\bin\Debug\assignment2.pdb
+C:\Users\flacont\Desktop\Fall 2017\Advanced Programming\Assignments\assignment2\assignment2\obj\Debug\assignment2.csprojResolveAssemblyReference.cache
+C:\Users\flacont\Desktop\Fall 2017\Advanced Programming\Assignments\assignment2\assignment2\obj\Debug\assignment2.exe
+C:\Users\flacont\Desktop\Fall 2017\Advanced Programming\Assignments\assignment2\assignment2\obj\Debug\assignment2.pdb
