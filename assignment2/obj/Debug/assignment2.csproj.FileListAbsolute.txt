@@ -4,3 +4,10 @@ C:\Users\flacont\Desktop\Fall 2017\Advanced Programming\Assignments\assignment2\
 C:\Users\flacont\Desktop\Fall 2017\Advanced Programming\Assignments\assignment2\assignment2\obj\Debug\assignment2.csprojResolveAssemblyReference.cache
 C:\Users\flacont\Desktop\Fall 2017\Advanced Programming\Assignments\assignment2\assignment2\obj\Debug\assignment2.exe
 C:\Users\flacont\Desktop\Fall 2017\Advanced Programming\Assignments\assignment2\assignment2\obj\Debug\assignment2.pdb
+C:\git\forks\assignment2\assignment2\bin\Debug\assignment2.exe.config
+C:\git\forks\assignment2\assignment2\bin\Debug\assignment2.exe
+C:\git\forks\assignment2\assignment2\bin\Debug\assignment2.pdb
+C:\git\forks\assignment2\assignment2\obj\Debug\assignment2.csprojResolveAssemblyReference.cache
+C:\git\forks\assignment2\assignment2\obj\Debug\assignment2.csproj.CoreCompileInputs.cache
+C:\git\forks\assignment2\assignment2\obj\Debug\assignment2.exe
+C:\git\forks\assignment2\assignment2\obj\Debug\assignment2.pdb
