@@ -11,6 +11,14 @@ namespace assignment2
     {
         static void Main(string[] args)
         {
+            // initialize option to a bad value
+            int option = -1;
+
+            do
+            {
+                option = AttemptToConvertToInt();
+            }
+            while (option < 1 || option > 3);
             
             int AttemptToConvertToInt()
             {
@@ -22,7 +30,8 @@ namespace assignment2
 
                 WriteLine("Enter 1, 2, or 3 to select your option, then press Enter: \n1. Calculate sum of scores \n2. Enter customer purchases \n3. Quit");
                 optionInput = ReadLine();
-                try {
+                try
+                {
                     optionReturn = Convert.ToInt32(optionInput);
                 }
                 catch (FormatException)
@@ -37,16 +46,7 @@ namespace assignment2
                 }
                 return optionReturn;
             }
-            int option = -1;
-            do
-            {
-                option = AttemptToConvertToInt();
-                WriteLine(option);
-            }
-            while (option < 1 || option > 3);
-            
-            
-            WriteLine(option);
+
             /*
             WriteLine("Enter 1, 2, or 3 to select your option, then press Enter: \n1. Calculate sum of scores\n 2. Enter customer purchases\n 3. Quit");
             option = Convert.ToInt32(ReadLine());
