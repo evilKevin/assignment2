@@ -11,3 +11,10 @@ C:\git\forks\assignment2\assignment2\obj\Debug\assignment2.csprojResolveAssembly
 C:\git\forks\assignment2\assignment2\obj\Debug\assignment2.csproj.CoreCompileInputs.cache
 C:\git\forks\assignment2\assignment2\obj\Debug\assignment2.exe
 C:\git\forks\assignment2\assignment2\obj\Debug\assignment2.pdb
+C:\gitrekt\forks\assignment2\assignment2\bin\Debug\assignment2.exe.config
+C:\gitrekt\forks\assignment2\assignment2\bin\Debug\assignment2.exe
+C:\gitrekt\forks\assignment2\assignment2\bin\Debug\assignment2.pdb
+C:\gitrekt\forks\assignment2\assignment2\obj\Debug\assignment2.csprojResolveAssemblyReference.cache
+C:\gitrekt\forks\assignment2\assignment2\obj\Debug\assignment2.csproj.CoreCompileInputs.cache
+C:\gitrekt\forks\assignment2\assignment2\obj\Debug\assignment2.exe
+C:\gitrekt\forks\assignment2\assignment2\obj\Debug\assignment2.pdb

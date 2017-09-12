@@ -15,7 +15,7 @@ namespace assignment2
             int AttemptToConvertToInt()
             {
                 string optionInput;
-                int optionReturn;
+                int optionReturn = 3;
 
                 string formatError = "Enter a whole number please.";
                 string exceptionError = "There was a problem with your entry. Please enter 1, 2, or 3.";
@@ -23,7 +23,6 @@ namespace assignment2
                 WriteLine("Enter 1, 2, or 3 to select your option, then press Enter: \n1. Calculate sum of scores \n2. Enter customer purchases \n3. Quit");
                 optionInput = ReadLine();
                 try {
-                    Convert.ToInt32(optionInput);
                     optionReturn = Convert.ToInt32(optionInput);
                 }
                 catch (FormatException)
@@ -38,12 +37,13 @@ namespace assignment2
                 }
                 return optionReturn;
             }
-            int option = AttemptToConvertToInt();
+            int option = -1;
             do
             {
+                option = AttemptToConvertToInt();
                 WriteLine(option);
             }
-            while (AttemptToConvertToInt() < 1 && AttemptToConvertToInt() > 3);
+            while (option < 1 || option > 3);
             
             
             WriteLine(option);
